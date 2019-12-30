@@ -5,13 +5,12 @@ Available from unity2019.3.
 
 ## chapters
 
-|chapter|内容|
+|chapter|Description|
 |---|---|
-|Chapter1| . |
-|Chapter2| . |
-|Chapter3| . |
-|Chapter4| . |
-|Chapter5| . |
-|Chapter6| . |
+|Chapter1| ShaderTagId and LightMode |
+|Chapter2| RenderQueueRange and LayerMask |
+|Chapter3| LayerMask |
+|Chapter4| RenderingLayerMask and LayerMask |
+|Chapter5| MultiPass |
+|Chapter6| RenderTarget and Bloom |
 
-## setup
