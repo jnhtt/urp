@@ -26,4 +26,6 @@ FrameDebugger is an important tool in Universal Render Pipeline.
 
 Window > Analysis > Frame Debugger
 
+<img width="423" alt="img_1_4" src="https://user-images.githubusercontent.com/2674692/71588427-c9c3d580-2b64-11ea-9f3f-74ee8c4efd14.png">
+
 
