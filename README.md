@@ -1,5 +1,8 @@
 # urp
 
+This repository is samples of Universal Render Pipeline.
+Available from unity2019.3.
+
 ## chapters
 
 |chapter|内容|
