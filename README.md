@@ -19,3 +19,11 @@ Available from unity2019.3.
 Set AssetPipeline to Graphics settings.
 
 <img width="948" alt="img_1_3" src="https://user-images.githubusercontent.com/2674692/71588177-e7dd0600-2b63-11ea-849b-074ee3bc353e.png">
+
+## FrameDebugger
+
+FrameDebugger is an important tool in Universal Render Pipeline.
+
+Window > Analysis > Frame Debugger
+
+
