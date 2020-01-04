@@ -13,6 +13,7 @@ Available from unity2019.3.
 |Chapter4| RenderingLayerMask and LayerMask |
 |Chapter5| MultiPass |
 |Chapter6| RenderTarget and Bloom |
+|HLSLvsCg| Compare HLSL and Cg |
 
 ## setup
 
