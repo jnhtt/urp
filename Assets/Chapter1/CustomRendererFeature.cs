@@ -19,7 +19,6 @@ namespace Chapter1
 
         public override void AddRenderPasses(ScriptableRenderer renderer, ref RenderingData renderingData)
         {
-            Debug.Log("AddRenderPasses");
             currentPass.SetRenderTarget(renderer.cameraColorTarget);
             renderer.EnqueuePass(currentPass);
         }
