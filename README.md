@@ -1,11 +1,16 @@
 # book
 
+pdf about Universal Render Pipeline is available from below
+pdfを下記で公開中
 https://smartphone-games.booth.pm/items/1771430
 
 # urp
 
 This repository is samples of book about Universal Render Pipeline.
-Available from unity2019.3.
+Available from Unity2019.3.
+
+このレポジトリはUniversalRenderPipelineについての本のサンプルです。
+Unity2019.3を必要とします。
 
 ## chapters
 
