@@ -1,6 +1,10 @@
+# book
+
+https://smartphone-games.booth.pm/items/1771430
+
 # urp
 
-This repository is samples of Universal Render Pipeline.
+This repository is samples of book about Universal Render Pipeline.
 Available from unity2019.3.
 
 ## chapters
