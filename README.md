@@ -1,7 +1,9 @@
 # book
 
 pdf about Universal Render Pipeline is available from below
+
 pdfを下記で公開中
+
 https://smartphone-games.booth.pm/items/1771430
 
 # urp
